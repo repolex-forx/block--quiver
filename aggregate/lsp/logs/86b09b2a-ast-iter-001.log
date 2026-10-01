@@ -1,0 +1,7 @@
+[2026-10-01T09:55:34Z] === AST ITERATION 1 START | repo=block/quiver sha=86b09b2a ===
+[2026-10-01T09:55:34Z] [iter=1] PHASE START: ast repo=block/quiver sha=86b09b2a
+[2026-10-01T09:55:34Z] [iter=1] Building AST aggregate chunks
+[2026-10-01T09:56:01Z] [iter=1] AST chunks built count=1 triples=295225
+[2026-10-01T09:56:01Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/86b09b2af1f7f48b656fa8dcca2ef6eb44c6e72e/.complete
+[2026-10-01T09:56:01Z] [iter=1] PHASE END: ast elapsed_s=27 elapsed_min=0.5
+[2026-10-01T09:56:01Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

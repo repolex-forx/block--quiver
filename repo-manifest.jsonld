@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/quiver/commit/86b09b2af1f7f48b656fa8dcca2ef6eb44c6e72e",
       "git:hexsha": "86b09b2af1f7f48b656fa8dcca2ef6eb44c6e72e",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     },
     {
